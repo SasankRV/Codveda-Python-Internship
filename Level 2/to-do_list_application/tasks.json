@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Exercise",
+        "done": true
+    },
+    {
+        "task": "Writing story",
+        "done": false
+    },
+    {
+        "task": "Cooking Chicken curry",
+        "done": true
+    },
+    {
+        "task": "Washing Clothes",
+        "done": false
+    }
+]
